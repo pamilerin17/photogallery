@@ -80,7 +80,7 @@ const PhotoGalleryApp = () => {
           Photo<span className="text-cyan-400">Hub</span>
         </h1>
         <p className="text-xl text-white/80 max-w-md">
-          Welcome to NCC'S AKUTE 2025 TEENAGE WEEK
+          Welcome to NCC'S AKUTE TEENAGER'S GALLERY
         </p>
       </div>
 
